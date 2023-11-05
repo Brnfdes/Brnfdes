@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/Brnfdes/Perfil/main/g10.png?token=GHSAT0AAAAAACJZKUMFWVOFHCNMP4NCUV76ZKG43JQ" align="right">
+<img src="https://raw.githubusercontent.com/Brnfdes/Brnfdes/main/g10.png" align="right">
 
 <p align="left"> 
   Sou analista de <strong>Business Intelligence e Analytics</strong>.<br>, estudante do curso de graduação em Engenharia de Software e Big Data | Inteligência Analítica, com experiência em hackathon e bootcamp nas áreas de <strong>Data Science e Data Analytics</strong>.<br>
