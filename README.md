@@ -1,8 +1,8 @@
 
-<img src="https://raw.githubusercontent.com/Brnfdes/Brnfdes/main/g10.png" align="right">
+<img src="https://raw.githubusercontent.com/Brnfdes/Brnfdes/main/capa.png" align="right" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou analista de <strong>Business Intelligence e Analytics</strong>.<br>, estudante do curso de graduação em Engenharia de Software e Big Data | Inteligência Analítica, com experiência em hackathon e bootcamp nas áreas de <strong>Data Science e Data Analytics</strong>.<br>
+  Sou analista de <strong>Business Intelligence e Analytics</strong>.<br>Estudante do curso de graduação em Engenharia de Software e Big Data | Inteligência Analítica, com experiência em hackathon e bootcamp nas áreas de <strong>Data Science e Data Analytics</strong>.<br>
 </p>
 
 
@@ -30,9 +30,3 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
-
-<div style ="display: inline_block"><br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brnfdes&langs_count=8&theme=onedark)
-
-</div>
