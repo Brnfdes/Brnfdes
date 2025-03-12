@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Brnfdes/Brnfdes/main/capa.png" align="right" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou analista de <strong>Business Intelligence e Analytics</strong>.<br>Estudante do curso de graduação em Engenharia de Software e Big Data | Inteligência Analítica, com experiência em hackathon e bootcamp nas áreas de <strong>Data Science e Data Analytics</strong>.<br>
+  Sou analista de <strong>Business Intelligence e Analytics</strong>.<br>Estudante do curso de graduação em Inteligência Artificial, com experiência em hackathon e bootcamp nas áreas de <strong>Data Science e Data Analytics</strong>.<br>
 </p>
 
  #### Ferramentas:
